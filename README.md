@@ -22,7 +22,7 @@ Assuming each car failing is independent,
 
 $$
 \begin{aligned}
-P \left( \text{all 7 pass} right) &= \left[ P \left( \text{pass} \right) \right]^7 \\
+P \left( \text{all 7 pass} \right) &= \left[ P \left( \text{pass} \right) \right]^7 \\
 &= \left[ 1 - P \left( \text{fail} \right) \right]^7 \\
 &= \left( 1 - 0.16) \right)^7 \\
 &= 0.84^7 \\
